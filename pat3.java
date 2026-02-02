@@ -1,3 +1,5 @@
+
+
 //Number Sequence
 
 public class pat3 {

@@ -1,6 +1,11 @@
 ﻿# JAVA-PATTERNS
+---------------------------------------------------------
+#Hey dear Friends , it's nice time to talk through this page,
+#Failure is not a pain , It's a weapon to bulid yourself strong,keep do, Don't try
+#In this JAVA PATTERN repositry has different kinda programms based on logical patterns and problems
+#Do one programm per day, that will be good for your carrer and learnings;
+#Don't break your consistency, keep run with your systems not goals
 
-#This is Jones , In this repo I've uploaded patterns one by one using Java. Kindly use and learn, Don't write code blindly
-#keep write with the dedication because ,Great things takes more time. Don't forget this point 
-
-#Thank you for visiting our Repositry "Good luck !"
+---------------------------------------------------------
+By your friend...........................................
+---------------------------------------------------------DO IT IMMEDIATELY---------------------------------------------------------
